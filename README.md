@@ -35,7 +35,7 @@ sudo apt install nodejs -y
 npm i
 ```
 <br>
-Bukalah browser dan beralih ke [`127.0.0.1:3000`](https://127.0.0.1:3000)
+Bukalah browser dan beralih ke http://127.0.0.1:3000
 
 # Donate
 | Type                          | To |

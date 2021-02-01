@@ -24,9 +24,9 @@ Mengecilkan ukuran file sebelum dikirimkan ke client pada web server dengan baha
 
 ## Application
 nodejs <br> <br>
-Jika belum ada nodeJS maka silahkan install dengan cara 
-```bash
+Jika belum ada nodeJS maka silahkan install dengan cara
 Ini hanya bekerja pada distro ubuntu/debian
+```bash
 sudo apt install nodejs -y
 ```
 
